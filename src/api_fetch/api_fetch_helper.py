@@ -1,5 +1,5 @@
 import requests
-from utils import logger
+from src.utils import logger
 import csv
 
 
